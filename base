@@ -9,6 +9,14 @@ Cloud Gov Roadmap
 7. Education and Training: Develop and implement training programs to ensure that all cloud users are properly educated on cloud governance best practices.
 8. Governance Review: Review and update the cloud governance framework on a regular basis to ensure that it remains current and relevant.
 
+1. Establish Cloud Governance Team: Create a cross-functional team of stakeholders from different departments within the organization to spearhead cloud governance. This team should include representatives from IT, security, legal, compliance, and other business units that will help ensure the organization is following best practices when using cloud services.
+2. Develop Cloud Governance Policies: Develop clear and comprehensive cloud governance policies that outline how cloud services will be used across the organization. These policies should define the scope and purpose of cloud services, acceptable use of cloud services, security and compliance requirements, and any other relevant regulations.
+3. Implement Governance Controls: Implement cloud governance controls to ensure that cloud services are being used in accordance with the organization’s policies. These controls should include monitoring of cloud services to ensure compliance with policies, user access management, and security controls.
+4. Educate Employees: Educate employees on the cloud governance policies and controls that have been implemented. This should include training on appropriate use of cloud services, security best practices, and any other relevant guidelines.
+5. Monitor Compliance: Regularly monitor compliance with cloud governance policies and controls. This should include regular checks of user access, security controls, and any other relevant measures.
+6. Adjust Governance Policies: As the organization’s cloud usage changes, adjust cloud governance policies and controls accordingly. This should include revisiting cloud services to ensure they are still meeting the organization’s needs, as well as any changes to security and compliance requirements.
+
+
 
 Cloud Gov Tasks
 
